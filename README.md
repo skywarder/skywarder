@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Alex
 
-<!--
-**skywarder/skywarder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production AI systems with LLMs, search, and agentic workflows.
 
-Here are some ideas to get you started:
+## 🚀 What I do
+- Design and ship end-to-end AI products (0 → production → impact)
+- Work with LLMs, RAG, semantic search, ranking, and personalization
+- Build agentic pipelines with evaluation and self-correction loops
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Background
+- 10+ years in ML / NLP / AI engineering
+- Built AI startup in e-commerce (content generation & product discovery)
+- Strong mix of engineering + product thinking
+
+## ⚙️ Tech I use
+`Python` • `PyTorch` • `Transformers` • `LangChain` • `LangGraph` • `RAG`  
+`Docker` • `APIs` • `Vector DBs` • `LLM evaluation`
+
+## 🔬 Current focus
+- Agentic systems & orchestration
+- Reliable LLM pipelines (evaluation, grounding, monitoring)
+- AI systems that actually work in production
